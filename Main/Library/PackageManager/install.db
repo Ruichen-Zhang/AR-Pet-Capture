@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "328aaa4f4faf",
+        "mtime": 1666633582000,
+        "size": 241827334,
+        "localPath": "D:\\PokemonGo\\PokemonGo_Main\\Packages\\com.ptc.vuforia.engine-10.11.3.tgz"
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+"instructions_readme": "1) Open Chrome, 2) go to chrome://tracing, 3) click Load, 4) navigate to this file.",
+
+"traceEvents":[
+{ "pid": "Unity", "ph":"M", "name": "process_name", "args": {"name": "Unity"} },
+{ "pid": "Unity", "ph":"M", "name": "process_sort_index", "args": {"sort_index": -100} },
+{ "pid": "Unity", "tid": 1, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "Unity", "tid": 1,"ts": 1.67195882378017E+15,"dur": 3676215, "ph":"X", "name": "Build player"},
+{ "pid": "Unity", "tid": 1,"ts": 1.67195882386376E+15,"dur": 75745, "ph":"X", "name": "Preprocess Player"},
+{ "pid": "Unity", "tid": 1,"ts": 1.6719588243958E+15,"dur": 2967872, "ph":"X", "name": "Prepare For Build"},
+{}
+
+],
+"meta_datetime": "12/25/2022 17:00:27",
+"meta_command_line": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.15f1c1\\Editor\\Unity.exe\" -projectpath D:\\PokemonGo\\PokemonGo_Main -useHub -hubIPC -cloudEnvironment production -licensingIpc \"LicenseClient-Kevin HZY\" -hubSessionId 9adc0730-8429-11ed-9439-d5a7a63b9240 -accessToken 62X_Y8vFnJICZs-G1h3N4SGg2s9h6ZI9iauAC-ulvnE01ef -projectpath D:\\PokemonGo\\PokemonGo_Main -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-Kevin HZY -hubSessionId 9adc0730-8429-11ed-9439-d5a7a63b9240 -accessToken 62X_Y8vFnJICZs-G1h3N4SGg2s9h6ZI9iauAC-ulvnE01ef",
+"meta_command_line_args": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.15f1c1\\Editor\\Unity.exe -projectpath D:\\PokemonGo\\PokemonGo_Main -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-Kevin HZY -hubSessionId 9adc0730-8429-11ed-9439-d5a7a63b9240 -accessToken 62X_Y8vFnJICZs-G1h3N4SGg2s9h6ZI9iauAC-ulvnE01ef -projectpath D:\\PokemonGo\\PokemonGo_Main -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-Kevin HZY -hubSessionId 9adc0730-8429-11ed-9439-d5a7a63b9240 -accessToken 62X_Y8vFnJICZs-G1h3N4SGg2s9h6ZI9iauAC-ulvnE01ef",
+"meta_user_name": "Kevin HZY",
+"meta_os_version": "Microsoft Windows NT 10.0.22000.0",
+"meta_cpu_count": "8"
+}

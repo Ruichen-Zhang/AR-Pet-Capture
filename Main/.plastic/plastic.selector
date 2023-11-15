@@ -1,0 +1,4 @@
+repository "PokemonGo_AR@kevinhzy@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
